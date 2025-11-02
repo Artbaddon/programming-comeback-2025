@@ -1,0 +1,130 @@
+# Session X: [Topic Name]
+**Date:** [Date]
+**Time:** [Start time - End time]
+**Duration:** 50 minutes
+
+---
+
+## Pre-Session Questions (Answer BEFORE you start)
+1. [Question about today's topic]
+2. [Another question about today's topic]
+
+**My guesses:**
+- 
+- 
+
+---
+
+## Notes (Write in MY words during session)
+
+### [Main Concept 1]
+
+**What it is:**
+[Explain in your own words]
+
+**Why it exists:**
+[The problem it solves]
+
+**How it works:**
+[Mechanism/process]
+
+**Example:**
+```javascript
+// Code example with comments explaining each line
+```
+
+**When to use:**
+[Real-world use cases]
+
+---
+
+### [Main Concept 2]
+
+[Same structure as above]
+
+---
+
+### [Main Concept 3]
+
+[Same structure as above]
+
+---
+
+## Aha Moments 💡
+- [Something that clicked for you]
+- [Connection you made between concepts]
+
+---
+
+## Confusion Points ❓
+- [What's still fuzzy]
+- [Questions to research later]
+
+---
+
+## Code I Wrote
+
+**File(s):** `[filename.js]`
+
+**What I built:**
+- [Brief description]
+
+**Key techniques used:**
+- 
+- 
+
+**Bugs I hit:**
+- [Problem you encountered]
+- [How you solved it]
+
+---
+
+## Post-Session Recall (CLOSE EVERYTHING FIRST!)
+
+**1. [Recall question 1 - specific to today's topic]**
+
+[Your answer from memory]
+
+---
+
+**2. [Recall question 2]**
+
+[Your answer from memory]
+
+---
+
+**3. [Recall question 3]**
+
+[Your answer from memory]
+
+---
+
+**4. What's one thing I still don't fully understand?**
+
+[Honest answer]
+
+---
+
+## Next Session Focus
+- [What you'll study next]
+- [Any follow-up from today's confusion]
+
+---
+
+## Reflection
+
+**What went well:**
+- 
+
+**What was hard:**
+- 
+
+**Time management:**
+- Did I stay focused? Yes/No
+- Any distractions? 
+
+**Energy level:** X/10
+
+**Confidence on this topic:** X/10
+
+---
