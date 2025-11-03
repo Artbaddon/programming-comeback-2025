@@ -43,18 +43,44 @@ Day 1 exceeded expectations. The habit started forming — keep momentum.
 ---
 
 ### Sunday, Nov 2 - Day 2 🚀  
-**Hours:** 1 hr 20 min (1 session)  
+**Hours:** 2 hr 10 min (2 sessions)  
 
-**Session:**  
+**Sessions:**  
 3. ✅ Promises (7:25 pm–9:05 pm, 80 min)  
+4. ✅ Promises Chaining (9:35 pm–10:25 pm, 50 min)  
 
 **Key Learnings:**  
-- Promise = object representing future completion of async task  
-- Three states: `pending → fulfilled / rejected`  
-- `.then`, `.catch`, `.finally` usage and order  
-- Realized promises link producer/consumer code asynchronously  
+- Each `.then()` returns a **new promise**  
+- Chaining allows **sequential async steps** without nesting  
+- Returning a promise inside `.then()` delays the next one until it resolves  
+- `.catch()` handles any rejection in the chain  
+- Learned real-world chaining with `fetch` and `loadScript()` examples  
 
 **Commits:**  
 - `Day 2 Session 1: Promises basics, then-catch-finally examples`  
+- `Day 2 Session 2: Promises chaining examples with fetch and scripts`  
+
+**Progress:**  
+- Understood the internal flow of chained promises  
+- Cleaner mental model of how `.then()` passes values  
+- Focus consistent through both sessions  
+- Understanding: **7/10 → 8/10**  
+
+**Struggles:**  
+- Sometimes confused by value passing vs returning new promises  
+- Need deeper review of `.catch()` vs `.then(onRejected)`  
+
+**What went well:**  
+- Maintained focus late in the day  
+- Code examples worked perfectly  
+- Solidified async fundamentals  
+
+**Tomorrow (Monday, Nov 3):**  
+- Session 5: `async/await` (rewrite chaining examples)  
+- Optional: quick review quiz on promises  
+- Goal: 1 hour focused  
+
+**Reflection:**  
+Good recovery and sustained momentum. Async flow starting to click — solid foundation for `async/await`.  
 
 **Progress:**  
