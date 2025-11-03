@@ -1,41 +1,60 @@
-### Saturday, Nov 1 - Day 1 🎉
-**Hours:** 2.5 hours (2 sessions!)
-**Sessions:**
-1. ✅ Variables & Scope (6:00pm-7:30pm, 1.5hr)
-2. ✅ Arrow Functions (9:00pm-9:50pm, 50min)
+### Saturday, Nov 1 - Day 1 🎉  
+**Hours:** 2.5 hours (2 sessions)  
 
-**Key learnings:**
-- Block scope with let/const vs var
-- Arrow functions don't have their own 'this'
-- Lexical vs dynamic binding (still fuzzy, need examples)
-- When NOT to use arrows (object methods)
+**Sessions:**  
+1. ✅ Variables & Scope (6:00 pm–7:30 pm, 1.5 hr)  
+2. ✅ Arrow Functions (9:00 pm–9:50 pm, 50 min)  
 
-**Commits:**
-- `Day 1 Session 1: Variables and block scope practice`
-- `Day 1 Session 2: Arrow functions and lexical this`
+**Key Learnings:**  
+- Block scope with `let`/`const` vs `var`  
+- Arrow functions don’t have their own `this`  
+- Lexical vs dynamic binding (still fuzzy)  
+- When **not** to use arrow functions (object methods)  
 
-**Progress:**
-- Session 2 was FASTER than Session 1 (momentum building!)
-- Focus improved in Session 2 (no distractions)
-- Understanding is solid (7/10)
-- Did 2 sessions on Day 1 (overachieving)
+**Commits:**  
+- `Day 1 Session 1: Variables and block scope practice`  
+- `Day 1 Session 2: Arrow functions and lexical this`  
 
-**Struggles:**
-- Energy dropped by evening (4/10 by Session 2)
-- Lexical environment still confusing (need to research)
-- Late night coding might not be ideal
+**Progress:**  
+- Session 2 was faster than Session 1 (momentum building)  
+- Focus improved in Session 2 (no distractions)  
+- Understanding: **7/10**  
+- Did 2 sessions — overachieved  
 
-**What went well:**
-- Came BACK after break and did Session 2 (consistency!)
-- Faster on Session 2 (learning the system)
-- Arrow functions clicked despite low energy
+**Struggles:**  
+- Energy dropped by evening (4/10)  
+- Lexical environment still confusing  
+- Late sessions lower focus  
 
-**Tomorrow (Sunday, Nov 2):**
-- Try MORNING session (test if energy is better)
-- Session 3: Destructuring (1 hour)
-- Session 4: Start CLI Task Manager (2-3 hours)
-- Goal: 3-4 hours total
+**What went well:**  
+- Came back after break for Session 2 (consistency)  
+- Faster learning pace  
+- Arrow functions finally clicked  
 
-**Reflection:**
-Day 1 exceeded expectations. Did 2 sessions when I only planned 1.
-The habit is forming. Keep this momentum.
+**Tomorrow (Sunday, Nov 2):**  
+- Try morning session  
+- Session 3: Destructuring (1 hr)  
+- Session 4: Start CLI Task Manager (2–3 hr)  
+- Goal: 3–4 hours total  
+
+**Reflection:**  
+Day 1 exceeded expectations. The habit started forming — keep momentum.  
+
+---
+
+### Sunday, Nov 2 - Day 2 🚀  
+**Hours:** 1 hr 20 min (1 session)  
+
+**Session:**  
+3. ✅ Promises (7:25 pm–9:05 pm, 80 min)  
+
+**Key Learnings:**  
+- Promise = object representing future completion of async task  
+- Three states: `pending → fulfilled / rejected`  
+- `.then`, `.catch`, `.finally` usage and order  
+- Realized promises link producer/consumer code asynchronously  
+
+**Commits:**  
+- `Day 2 Session 1: Promises basics, then-catch-finally examples`  
+
+**Progress:**  
