@@ -4,10 +4,13 @@
 
 ### Monday, Dec 1 - Day 1
 **Goal:** Variables & Data Types
-**Status:** [ ] Not Started
+**Status:** [~] Partially Completed (20 mins)
 
 **Notes:**
-- 
+- Felt tired but showed up (Consistency win!).
+- Completed notes on Variables, let vs const.
+- Completed Exercises 2 & 3.
+- Exercise 1 (Swap) needs a quick logic fix.
 
 **Commits:**
-- 
+- Pending 
