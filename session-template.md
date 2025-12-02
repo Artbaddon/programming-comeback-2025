@@ -2,6 +2,7 @@
 **Date:** [Date]
 **Time:** [Start time - End time]
 **Duration:** 50 minutes
+**Review Date:** [Date + 3 days] (Spaced Repetition)
 
 ---
 
@@ -12,6 +13,12 @@
 **My guesses:**
 - 
 - 
+
+---
+
+## Resources Used 📚
+- [Link 1]
+- [Link 2]
 
 ---
 
@@ -62,7 +69,21 @@
 
 ---
 
-## Code I Wrote
+## Daily Exercises (The "3 Tasks") ✅
+*Paste the 3 exercises from the Roadmap here*
+
+1. [ ] **Exercise 1:** [Description]
+2. [ ] **Exercise 2:** [Description]
+3. [ ] **Exercise 3:** [Description]
+
+**My Solution Code / Notes:**
+```javascript
+// Paste your solution code here
+```
+
+---
+
+## Code I Wrote (Project/Experiment)
 
 **File(s):** `[filename.js]`
 
@@ -102,6 +123,11 @@
 **4. What's one thing I still don't fully understand?**
 
 [Honest answer]
+
+---
+
+**5. The "EL15" Summary (Explain Like I'm 5)**
+[Explain the main concept of today in ONE simple sentence, as if teaching a child]
 
 ---
 

@@ -1,12 +1,12 @@
 # The Escape Plan: Legacy to Modern Stack
-**November 1, 2025 → July 26, 2026 | From HCL Domino to Modern JS Stack**
+**December 1, 2025 → July 26, 2026 | From HCL Domino to Modern JS Stack**
 
 ---
 
 ## Table of Contents
 1. [Your Situation & Mission](#your-situation-mission)
 2. [The Two-Phase Strategy](#the-two-phase-strategy)
-3. [Phase 1: Survival Mode (Nov-Dec)](#phase-1-survival-mode)
+3. [Phase 1: Survival Mode (Dec)](#phase-1-survival-mode)
 4. [Phase 2: Attack Mode (Jan-July)](#phase-2-attack-mode)
 5. [Learning Science & Session Protocol](#learning-science-session-protocol)
 6. [Weekly Schedules by Phase](#weekly-schedules-by-phase)
@@ -29,7 +29,7 @@
 - Final semester
 
 **Available Time:**
-- **Nov-Dec:** ~6-10 hours/week (survival mode)
+- **Dec:** ~5 hours/week (survival mode)
 - **Jan-July:** ~20-25 hours/week (attack mode)
 
 ### Mission Statement
@@ -44,6 +44,8 @@ Learn modern JavaScript stack (React, NestJS, TypeScript) while working, build p
 **By July 26, 2026:**
 - ✅ Master modern JavaScript (ES6+) + TypeScript
 - ✅ Build full-stack apps (React + NestJS)
+- ✅ **Containerize apps with Docker**
+- ✅ **Implement CI/CD pipelines (GitHub Actions)**
 - ✅ 5+ portfolio projects deployed
 - ✅ Pass technical interviews confidently
 - ✅ Multiple job offers from modern companies
@@ -53,20 +55,20 @@ Learn modern JavaScript stack (React, NestJS, TypeScript) while working, build p
 
 ## The Two-Phase Strategy
 
-### Phase 1: Survival Mode (Nov 1 - Dec 31, 2025)
-**Duration:** 9 weeks  
-**Total Hours:** 60-90 hours  
-**Weekly Hours:** 6-10 hours (realistic with work + university)
+### Phase 1: Survival Mode (Dec 1 - Dec 31, 2025)
+**Duration:** 5 weeks  
+**Total Hours:** ~25 hours  
+**Weekly Hours:** 5 hours (1 hour/day Mon-Fri)
 
 **Goal:** Build unbreakable habit, learn foundations, don't burn out, finish university strong.
 
 **Focus:**
 - Modern JavaScript fundamentals (ES6+)
-- Basic backend concepts (Express)
-- 1-2 small projects
+- Basic DOM manipulation
+- 1 small project (To-Do List)
 - Daily commits (streak is SACRED)
 
-**Why low hours?** You're working 13-hour days (8hr work + 4hr uni + commute). Sustainability > speed.
+**Why low hours?** You're working 13-hour days (8hr work + 4hr uni + commute) until Dec 15. Sustainability > speed.
 
 ---
 
@@ -81,6 +83,7 @@ Learn modern JavaScript stack (React, NestJS, TypeScript) while working, build p
 - TypeScript mastery
 - Backend (Express → NestJS)
 - Frontend (React + TypeScript)
+- **DevOps Basics (Docker + CI/CD)**
 - Full-stack projects (portfolio pieces)
 - Algorithms + System Design
 - Interview preparation
@@ -90,292 +93,327 @@ Learn modern JavaScript stack (React, NestJS, TypeScript) while working, build p
 
 ---
 
-## Phase 1: Survival Mode (Nov 1 - Dec 31)
+## Phase 1: Survival Mode (Dec 1 - Dec 31)
 
-### Overview: 9 Weeks to Build Foundation
-
-**Week-by-week breakdown with REALISTIC time expectations**
-
----
-
-### Week 1 (Nov 1-7): Modern JavaScript Basics
-**Total Hours:** 6-8 hours
-
-**Weekend (Sat-Sun): 5-6 hours**
-- ✅ Sat Session 1: Variables, let/const, scope (1.5hr) ← Took longer, learning the system
-- ✅ Sat Session 2: Arrow functions (50min) ← ALREADY FASTER!
-- Sun Session 3: Promises & async/await (1.5-2hr+) ← Your weakness, TAKE YOUR TIME
-- Sun Session 4: Array methods basics (45-60min, if energy permits)
-
-**The progression you'll see:**
-- Session 1 (Variables): 90min - Learning content + learning system
-- Session 2 (Arrows): 50min - Already adapting
-- Session 3 (Async): 90-120min - Hard topic, expected
-- Session 4 (Arrays): 45-60min - You'll be faster
-- Week 2 sessions: 45-60min average
-- Week 3+ sessions: 45-50min consistently
-
-**This is NORMAL. This is EXPECTED. You're building speed through repetition.**
-
-**Weekdays (Mon-Fri): 2-3 hours total**
-- 30-45 min per day after 10pm (you're exhausted)
-- Review concepts from weekend
-- Do 1 LeetCode Easy problem
-- Small commits to keep streak alive
-
-**Topics & Resources:**
-
-**Variables & Scope:**
-- JavaScript.info: Variables (https://javascript.info/variables)
-- JavaScript.info: Variable scope (https://javascript.info/closure#lexical-environment)
-- Understand: let, const, var, block scope, temporal dead zone
-
-**Arrow Functions:**
-- JavaScript.info: Arrow functions (https://javascript.info/arrow-functions-basics)
-- JavaScript.info: Arrow functions revisited (https://javascript.info/arrow-functions)
-- Understand: syntax, lexical this, when NOT to use
-
-**Promises & Async/Await:**
-- JavaScript.info: Promises (https://javascript.info/promise-basics)
-- JavaScript.info: Promises chaining (https://javascript.info/promise-chaining)
-- JavaScript.info: Async/await (https://javascript.info/async-await)
-- Web Dev Simplified: Async/Await (https://www.youtube.com/watch?v=V_Kr9OSfDeU)
-- Practice API: JSONPlaceholder (https://jsonplaceholder.typicode.com/)
-
-**Array Methods:**
-- Fun Fun Function: Map (https://www.youtube.com/watch?v=bCqtb-Z5YGQ)
-- Fun Fun Function: Reduce (https://www.youtube.com/watch?v=Wl98eZpkp-c)
-- JavaScript.info: Array methods (https://javascript.info/array-methods)
-- MDN: Array methods reference (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-
-**Project:** None yet, focusing on fundamentals
+### Overview: 5 Weeks to Build Foundation
+**Goal:** Build unbreakable habit, learn foundations, finish university strong.
+**Schedule:**
+- **Dec 1 - Dec 14:** Mon-Fri (1 hr), Sat-Sun (4 hrs).
+- **Dec 15 - Dec 31:** Mon-Fri (2 hrs), Sat-Sun (4 hrs).
+- **NO REST DAYS.**
 
 ---
 
-### Week 2 (Nov 8-14): Deep-dive & Practice
-**Total Hours:** 6-8 hours
+### Week 1 (Dec 1 - Dec 7): Modern JavaScript Foundations
+**Focus:** ES6+ Syntax, Variables, Functions.
 
-**Weekend: 5-6 hours**
-- Closures & scope deep-dive (1.5hr)
-- Destructuring & spread/rest operators (1hr)
-- Template literals, modules (1hr)
-- Array methods practice (1.5hr)
+**Monday, Dec 1 (Day 1): Variables & Data Types (1 hr)**
+- **Core Topics:** `let` vs `const` vs `var`, Primitive types (string, number, boolean), Template Literals.
+- **Resources:**
+  - [JavaScript.info: Variables](https://javascript.info/variables)
+  - [MDN: Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+- **Exercises:**
+  1. Swap two variables without using a temporary variable (or with one).
+  2. Create a `const` object and modify one of its properties (prove `const` isn't immutable).
+  3. Use template literals to log a formatted user profile string (e.g., "Name: X, Age: Y").
 
-**Weekdays: 2-3 hours**
-- 30-45 min per day
-- LeetCode Easy problems (practice arrays)
-- Review and connect concepts
+**Tuesday, Dec 2 (Day 2): Arrow Functions (1 hr)**
+- **Core Topics:** Arrow function syntax, Implicit return, `this` context differences.
+- **Resources:**
+  - [JavaScript.info: Arrow functions](https://javascript.info/arrow-functions-basics)
+  - [MDN: Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+- **Exercises:**
+  1. Convert a standard function declaration to an arrow function.
+  2. Create an arrow function that implicitly returns an object (hint: wrap in parentheses).
+  3. Write a one-line arrow function that takes two numbers and returns their product.
 
-**Topics & Resources:**
+**Wednesday, Dec 3 (Day 3): Destructuring & Spread (1 hr)**
+- **Core Topics:** Object/Array destructuring, Spread operator (`...`), Rest parameters.
+- **Resources:**
+  - [JavaScript.info: Destructuring assignment](https://javascript.info/destructuring-assignment)
+  - [JavaScript.info: Rest parameters and spread syntax](https://javascript.info/rest-parameters-spread)
+- **Exercises:**
+  1. Destructure `address` from a `user` object, assigning a default value if it's missing.
+  2. Swap two variables using array destructuring syntax.
+  3. Merge two arrays of numbers into a new array using the spread operator.
 
-**Closures:**
-- JavaScript.info: Closures (https://javascript.info/closure)
-- JavaScript.info: The old "var" (https://javascript.info/var)
-- Web Dev Simplified: Closures (https://www.youtube.com/watch?v=3a0I8ICR1Vg)
-- Understand: lexical scope, closure use cases, private variables
+**Thursday, Dec 4 (Day 4): Array Methods Part 1 (1 hr)**
+- **Core Topics:** `map`, `filter`, `find`. Why they are better than `for` loops.
+- **Resources:**
+  - [JavaScript.info: Array methods](https://javascript.info/array-methods)
+  - [MDN: Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+- **Exercises:**
+  1. Use `map` to convert an array of names to uppercase.
+  2. Use `filter` to find all numbers greater than 10 in an array.
+  3. Use `find` to locate a specific user object by their ID property.
 
-**Destructuring:**
-- JavaScript.info: Destructuring assignment (https://javascript.info/destructuring-assignment)
-- MDN: Destructuring (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
-- Practice: array destructuring, object destructuring, nested destructuring
+**Friday, Dec 5 (Day 5): Array Methods Part 2 (1 hr)**
+- **Core Topics:** `reduce`, `some`, `every`, Chaining methods.
+- **Resources:**
+  - [MDN: Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+  - [YouTube: Reduce method explained](https://www.youtube.com/results?search_query=javascript+reduce+method)
+- **Exercises:**
+  1. Use `reduce` to calculate the total sum of an array of prices.
+  2. Use `some` to check if any user in an array is an "admin".
+  3. Chain `filter` and `map` to get the names of all active users.
 
-**Spread/Rest:**
-- JavaScript.info: Rest parameters and spread syntax (https://javascript.info/rest-parameters-spread)
-- Web Dev Simplified: Spread operator (https://www.youtube.com/watch?v=1INe_jCWq1Q)
-- Understand: spread in arrays/objects, rest in functions
+**Saturday, Dec 6 (Day 6): Functions Deep Dive (4 hrs)**
+- **Core Topics:** Closures, Lexical Scope, Higher-Order Functions, Callbacks.
+- **Activity:** Solve 5-10 coding exercises focusing on closures and callbacks.
+- **Resources:**
+  - [JavaScript.info: Closure](https://javascript.info/closure)
+  - [JavaScript.info: Global Object](https://javascript.info/global-object)
+- **Exercises:**
+  1. Create a `createCounter` function using closure that has `increment` and `getValue` methods.
+  2. Write a function `processArray` that accepts an array and a callback function to run on each item.
+  3. Create a function that returns another function (currying) to add a specific number (e.g., `add(5)(10)`).
 
-**Template Literals & Modules:**
-- JavaScript.info: Template literals (https://javascript.info/string#quotes)
-- JavaScript.info: Modules (https://javascript.info/modules-intro)
-- MDN: Template literals (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
-
-**Project:** Start planning CLI Task Manager
-
----
-
-### Week 3 (Nov 15-21): First Project Week
-**Total Hours:** 7-9 hours
-
-**Weekend: 5-7 hours**
-- **CLI Task Manager Project**
-- Saturday: Setup, file operations, basic CRUD (3hr)
-- Sunday: Complete features, test, deploy (2-4hr)
-
-**Weekdays: 2-3 hours**
-- Polish CLI project
-- Add features, fix bugs
-- Write good README
-
-**Project:** CLI Task Manager
-- Add, list, complete, delete tasks
-- File persistence (JSON)
-- Command-line arguments
-- Error handling
-
----
-
-### Week 4 (Nov 22-28): Review & Consolidation
-**Total Hours:** 6-8 hours
-
-**Thanksgiving Week - might be lighter**
-
-**Weekend: 4-6 hours**
-- Review all Week 1-3 concepts
-- Refactor old code with new knowledge
-- LeetCode Easy problems (5-7 total)
-- Update portfolio/GitHub READMEs
-
-**Weekdays: 2-3 hours**
-- Light review sessions
-- Solidify weak spots
-- Plan December topics
-
-**Goal:** Solid foundation before moving to backend
+**Sunday, Dec 7 (Day 7): Async JS Deep Dive (4 hrs)**
+- **Core Topics:** Promises, Async/Await, Event Loop basics.
+- **Activity:** Build a small script that simulates data fetching with delays.
+- **Resources:**
+  - [JavaScript.info: Promise basics](https://javascript.info/promise-basics)
+  - [JavaScript.info: Async/await](https://javascript.info/async-await)
+- **Exercises:**
+  1. Create a Promise that resolves with "Success" after 2 seconds.
+  2. Create a Promise that randomly rejects with an error 50% of the time.
+  3. Use `async/await` to call the previous promises and handle errors with `try/catch`.
 
 ---
 
-### Week 5 (Nov 29 - Dec 5): Backend Introduction
-**Total Hours:** 6-8 hours
+### Week 2 (Dec 8 - Dec 14): DOM & Events
+**Focus:** Handling asynchronous operations and interacting with the browser.
 
-**Weekend: 4-6 hours**
-- HTTP fundamentals (requests, responses, status codes)
-- Node.js basics (if needed)
-- Express.js introduction
-- Create first simple API (Hello World)
+**Monday, Dec 8 (Day 8): Fetch API (1 hr)**
+- **Core Topics:** Making HTTP requests, JSON parsing, Handling network errors.
+- **Resources:**
+  - [JavaScript.info: Fetch](https://javascript.info/fetch)
+  - [MDN: Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+- **Exercises:**
+  1. Fetch a list of posts from `https://jsonplaceholder.typicode.com/posts` and log them.
+  2. Handle a 404 error by trying to fetch a non-existent URL and catching the error.
+  3. Create a function `getUser(id)` that returns a promise resolving to user data.
 
-**Weekdays: 2-3 hours**
-- Read Express docs
-- Small routing exercises
-- Understand middleware concept
+**Tuesday, Dec 9 (Day 9): DOM Manipulation Basics (1 hr)**
+- **Core Topics:** Selecting elements (`querySelector`), Changing text/HTML.
+- **Resources:**
+  - [JavaScript.info: Searching: getElement*, querySelector*](https://javascript.info/searching-elements-dom)
+- **Exercises:**
+  1. Select an element by its ID and change its text color to red.
+  2. Select all `<li>` elements on a page and log their text content.
+  3. Change the `src` attribute of an `<img>` tag to a different URL.
 
-**Topics & Resources:**
+**Wednesday, Dec 10 (Day 10): Modifying the DOM (1 hr)**
+- **Core Topics:** Creating elements, appending/removing, modifying styles/classes.
+- **Resources:**
+  - [JavaScript.info: Modifying the document](https://javascript.info/modifying-document)
+- **Exercises:**
+  1. Create a new `<div>`, add some text to it, and append it to the `<body>`.
+  2. Create a list of items from an array of strings and append them to a `<ul>`.
+  3. Toggle a CSS class "active" on an element when a function is called.
 
-**HTTP Fundamentals:**
-- MDN: HTTP Overview (https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-- MDN: HTTP Methods (https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-- MDN: HTTP Status Codes (https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-- Understand: request/response cycle, methods (GET, POST, PUT, DELETE), headers, body
+**Thursday, Dec 11 (Day 11): Events Basics (1 hr)**
+- **Core Topics:** `addEventListener`, Click events, Event object.
+- **Resources:**
+  - [JavaScript.info: Introduction to browser events](https://javascript.info/introduction-browser-events)
+- **Exercises:**
+  1. Add a click listener to a button that alerts "Button Clicked!".
+  2. Log the mouse X and Y coordinates to the console whenever the mouse moves.
+  3. Prevent the default action of a link (`<a>` tag) so it doesn't navigate away.
 
-**Node.js Basics:**
-- Node.js official docs (https://nodejs.org/docs/)
-- Web Dev Simplified: Node.js crash course (https://www.youtube.com/watch?v=ENrzD9HAZK4)
+**Friday, Dec 12 (Day 12): Forms & Input (1 hr)**
+- **Core Topics:** Capturing input values, Form submission, Validation.
+- **Resources:**
+  - [MDN: HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+- **Exercises:**
+  1. Log the value of a text input field to the console every time it changes.
+  2. Prevent a form from submitting and log the form data object instead.
+  3. Validate that a password field has at least 8 characters before allowing submission.
 
-**Express.js Introduction:**
-- Express.js official docs (https://expressjs.com/)
-- Express.js getting started (https://expressjs.com/en/starter/installing.html)
-- Web Dev Simplified: Express (https://www.youtube.com/watch?v=SccSCuHhOw0)
-- Fireship: Express in 100 seconds (https://www.youtube.com/watch?v=lY6icfhap2o)
+**Saturday, Dec 13 (Day 13): Project - To-Do List Core (4 hrs)**
+- **Activity:** Build the HTML structure and basic JS to add tasks to a list.
+- **Focus:** DOM manipulation, Event handling.
+- **Tasks:**
+  1. Create HTML: Input field, "Add" button, and an empty `<ul>`.
+  2. Write JS to read the input value when "Add" is clicked.
+  3. Create a new `<li>` with the text and append it to the list.
 
-**RESTful APIs:**
-- REST API Tutorial (https://restfulapi.net/)
-- Understand: REST principles, resource naming, status codes
-
----
-
-### Week 6 (Dec 6-12): Express Basics
-**Total Hours:** 6-8 hours
-
-**Weekend: 4-6 hours**
-- Express routing deep-dive
-- Middleware (built-in and custom)
-- Request/response handling
-- Basic error handling
-
-**Weekdays: 2-3 hours**
-- Build simple routes
-- Experiment with middleware
-- Test with Postman/Thunder Client
-
-**Topics & Resources:**
-
-**Express Routing:**
-- Express routing guide (https://expressjs.com/en/guide/routing.html)
-- Route parameters vs query strings
-- Route methods (app.get, app.post, app.put, app.delete)
-
-**Middleware:**
-- Express middleware guide (https://expressjs.com/en/guide/using-middleware.html)
-- Writing middleware (https://expressjs.com/en/guide/writing-middleware.html)
-- Built-in middleware: express.json(), express.urlencoded()
-- Popular middleware: cors, morgan, helmet
-
-**Request/Response:**
-- Express request object (https://expressjs.com/en/4x/api.html#req)
-- Express response object (https://expressjs.com/en/4x/api.html#res)
-- Sending JSON, status codes, headers
-
-**Error Handling:**
-- Express error handling (https://expressjs.com/en/guide/error-handling.html)
-- Custom error middleware
-- Async error handling
-
-**Tools:**
-- Postman (https://www.postman.com/) OR
-- Thunder Client (VS Code extension)
+**Sunday, Dec 14 (Day 14): Project - To-Do List Features (4 hrs)**
+- **Activity:** Add "Delete" and "Complete" functionality.
+- **Focus:** Event delegation, DOM traversal.
+- **Tasks:**
+  1. Add a "Delete" button to each task `<li>`.
+  2. Add a click listener to the list (delegation) to handle delete clicks.
+  3. Add a "click" listener to the task text to toggle a "completed" class (strikethrough).
 
 ---
 
-### Week 7 (Dec 13-19): Simple API Project
-**Total Hours:** 6-8 hours
+### Week 3 (Dec 15 - Dec 21): University Ends & Advanced Concepts
+**Milestone:** University finishes Dec 15! Hours increase to 2h/day on weekdays.
 
-**Weekend: 4-6 hours**
-- **Simple REST API Project**
-- Users CRUD (in-memory first, then JSON file)
-- Basic validation
-- Error responses
+**Monday, Dec 15 (Day 15): LocalStorage (1 hr)**
+- **Core Topics:** Saving data to browser, loading data on refresh, JSON.stringify/parse.
+- **Resources:**
+  - [JavaScript.info: LocalStorage](https://javascript.info/localstorage)
+- **Exercises:**
+  1. Save a simple user object `{name: "John", theme: "dark"}` to LocalStorage.
+  2. Retrieve the object, parse it, and log the name.
+  3. Create a "Dark Mode" toggle button that remembers the user's choice on refresh.
 
-**Weekdays: 2-3 hours**
-- Continue API development
-- Add features
-- Test all endpoints
+**Tuesday, Dec 16 (Day 16): Modules & Structure (2 hrs)**
+- **Core Topics:** ES6 Modules (`import`/`export`), Organizing code into files.
+- **Activity:** Refactor To-Do List to use modules.
+- **Resources:**
+  - [JavaScript.info: Modules](https://javascript.info/modules-intro)
+- **Exercises:**
+  1. Create a `math.js` file that exports `add` and `subtract` functions, and import them in `main.js`.
+  2. Use a `default export` for a `User` class in one file and import it in another.
+  3. Import all exports from a file as an alias (e.g., `import * as Utils from './utils.js'`).
 
-**Project:** Simple User API
-- GET /users (list all)
-- GET /users/:id (get one)
-- POST /users (create)
-- PUT /users/:id (update)
-- DELETE /users/:id (delete)
+**Wednesday, Dec 17 (Day 17): Error Handling & Debugging (2 hrs)**
+- **Core Topics:** `try...catch`, Throwing errors, Chrome DevTools debugger.
+- **Resources:**
+  - [JavaScript.info: Error handling](https://javascript.info/try-catch)
+  - [JavaScript.info: Debugging in Chrome](https://javascript.info/debugging-chrome)
+- **Exercises:**
+  1. Wrap a `JSON.parse` call in a `try/catch` block to handle invalid JSON strings.
+  2. Create a function that throws a custom error (e.g., "Invalid Argument") if a parameter is missing.
+  3. Use the `finally` block to log "Operation attempt finished" regardless of success or failure.
+
+**Thursday, Dec 18 (Day 18): Advanced Array Methods (2 hrs)**
+- **Core Topics:** `reduce` deep dive, `flatMap`, Sorting.
+- **Activity:** Solve 3 complex array manipulation problems.
+- **Exercises:**
+  1. Use `flatMap` to flatten an array of arrays and map the values in one step.
+  2. Sort an array of objects (e.g., events) by their `date` property.
+  3. Use `reduce` to group an array of people by their `age` (return an object like `{25: [...], 30: [...]}`).
+
+**Friday, Dec 19 (Day 19): Dates & Timers (2 hrs)**
+- **Core Topics:** `Date` object, `setTimeout`, `setInterval`.
+- **Activity:** Add a clock or due date feature to To-Do List.
+- **Exercises:**
+  1. Log the current date and time in a specific format (e.g., "YYYY-MM-DD HH:mm").
+  2. Create a countdown timer that logs the remaining seconds to the console every second.
+  3. Calculate the difference in days between two specific dates.
+
+**Saturday, Dec 20 (Day 20): Project - Weather App Setup (4 hrs)**
+- **Activity:** Setup project, get API key (OpenWeatherMap), build UI.
+- **Focus:** Fetch API, Async/Await, JSON.
+- **Tasks:**
+  1. Sign up for OpenWeatherMap and get an API key.
+  2. Create the HTML structure: Input for city, Button, Div for results.
+  3. Style the app with CSS to look decent (centered card layout).
+
+**Sunday, Dec 21 (Day 21): Project - Weather App Logic (4 hrs)**
+- **Activity:** Fetch real weather data, display it, handle errors (invalid city).
+- **Focus:** API integration, Error handling.
+- **Tasks:**
+  1. Write the function to fetch weather data based on the input city.
+  2. Display the temperature, city name, and weather description in the DOM.
+  3. Handle the "City not found" error by displaying a user-friendly message.
 
 ---
 
-### Week 8 (Dec 20-26): Holiday Week - Light Study
-**Total Hours:** 3-5 hours (family time!)
+### Week 4 (Dec 22 - Dec 28): Backend Intro (Node/Express)
+**Focus:** Moving to the server side.
 
-**Weekend: 2-3 hours**
-- Review Phase 1 progress
-- Plan Phase 2 attack
-- Update progress.md
-- Celebrate maintaining streak
+**Monday, Dec 22 (Day 22): Node.js Basics (2 hrs)**
+- **Core Topics:** What is Node? Running scripts, File System module (`fs`).
+- **Resources:**
+  - [Node.js Docs](https://nodejs.org/en/docs/)
+- **Exercises:**
+  1. Create a script `hello.js` that logs "Hello Node" and run it with `node hello.js`.
+  2. Use `fs.readFile` to read the contents of a text file and log it.
+  3. Use `fs.writeFile` to create a new file with some text content.
 
-**Weekdays: 1-2 hours**
-- Light review, keep streak alive
-- Don't stress, holidays are important
+**Tuesday, Dec 23 (Day 23): NPM & Package.json (2 hrs)**
+- **Core Topics:** Installing packages, `dependencies` vs `devDependencies`, scripts.
+- **Resources:**
+  - [NPM Docs](https://docs.npmjs.com/)
+- **Exercises:**
+  1. Initialize a new project with `npm init -y`.
+  2. Install `lodash` as a dependency and use it in a script.
+  3. Add a custom script `"start": "node index.js"` to `package.json` and run it.
 
-**Goal:** Rest before January acceleration
+**Wednesday, Dec 24 (Day 24): Express Server Setup (2 hrs)**
+- **Core Topics:** Setting up a basic Express server, listening on a port.
+- **Resources:**
+  - [Express Hello World](https://expressjs.com/en/starter/hello-world.html)
+- **Exercises:**
+  1. Create a basic Express server that listens on port 3000.
+  2. Create a root route `/` that sends "Hello World" as a response.
+  3. Create a route `/json` that sends a JSON object `{ message: "Success" }`.
+
+**Thursday, Dec 25 (Day 25): Routing Basics (2 hrs)**
+- **Core Topics:** GET, POST, PUT, DELETE routes.
+- **Activity:** Build a simple API with static data.
+- **Exercises:**
+  1. Create a dynamic route `/users/:id` that logs and returns the ID parameter.
+  2. Create a POST route `/users` that logs the request body (requires body parsing).
+  3. Create a "catch-all" 404 handler for undefined routes.
+
+**Friday, Dec 26 (Day 26): Middleware (2 hrs)**
+- **Core Topics:** What is middleware? Logging requests, Parsing JSON body.
+- **Resources:**
+  - [Express Middleware](https://expressjs.com/en/guide/using-middleware.html)
+- **Exercises:**
+  1. Create a custom logger middleware that logs the method and URL of every request.
+  2. Use `express.json()` middleware to parse incoming JSON payloads.
+  3. Create an "auth" middleware that checks for a specific header (e.g., `x-api-key`) and blocks the request if missing.
+
+**Saturday, Dec 27 (Day 27): Project - Simple REST API (4 hrs)**
+- **Activity:** Build a CRUD API for "Notes" (in-memory array).
+- **Focus:** REST principles, HTTP methods.
+- **Tasks:**
+  1. Implement `GET /notes` to return all notes.
+  2. Implement `POST /notes` to create a new note.
+  3. Implement `DELETE /notes/:id` to remove a note by ID.
+
+**Sunday, Dec 28 (Day 28): Project - Connect Frontend (4 hrs)**
+- **Activity:** Build a simple frontend that fetches data from your local API.
+- **Focus:** CORS, Full-stack flow.
+- **Tasks:**
+  1. Enable CORS on your Express server.
+  2. Create a simple HTML page with a "Load Notes" button.
+  3. Write JS to fetch the notes from your API and display them on the page.
 
 ---
 
-### Week 9 (Dec 27-31): University Ends! 🎉
-**Total Hours:** 6-8 hours
+### Week 5 (Dec 29 - Dec 31): Final Push
+**Focus:** Preparing for Phase 2.
 
-**Weekend: 4-6 hours**
-- Final review of all Nov-Dec concepts
-- Refactor projects with new knowledge
-- Set up January schedule
-- Prepare for acceleration
+**Monday, Dec 29 (Day 29): Git & GitHub Deep Dive (2 hrs)**
+- **Core Topics:** Branching, Merging, Pull Requests, `.gitignore`.
+- **Activity:** Push all December projects to GitHub with good READMEs.
+- **Exercises:**
+  1. Create a new branch `feature-login`, make a change, and commit it.
+  2. Merge `feature-login` back into `main` (simulate a feature completion).
+  3. Create a `.gitignore` file to ensure `node_modules` are never committed.
 
-**Weekdays: 2-3 hours**
-- Last days of university
-- Keep momentum
+**Tuesday, Dec 30 (Day 30): Portfolio Setup (2 hrs)**
+- **Activity:** Create a simple GitHub profile README or portfolio page.
+- **Focus:** Showcasing your work.
+- **Tasks:**
+  1. Create a special repository named after your username to activate the Profile README.
+  2. Add a list of the technologies you learned this month.
+  3. Pin your "To-Do List" and "Weather App" repositories to your profile.
+
+**Wednesday, Dec 31 (Day 31): Review & Plan (2 hrs)**
+- **Activity:** Review all concepts. Set up environment for Phase 2 (TypeScript/NestJS).
+- **Goal:** Ready to ATTACK in January.
+- **Tasks:**
+  1. Re-write your To-Do list logic using a JavaScript Class (OOP practice).
+  2. Explain the "Event Loop" to a rubber duck (or write a short explanation).
+  3. Install TypeScript globally (`npm install -g typescript`) to be ready for Jan 1.
 
 **By Dec 31, 2025 You'll Have:**
-- ✅ Modern JavaScript solid (can pass interviews on this)
-- ✅ Express.js basics understood
-- ✅ 2 projects on GitHub (CLI + Simple API)
-- ✅ 60-90 hours of focused learning
-- ✅ **Unbreakable daily coding habit** (60-day streak!)
+- ✅ Modern JavaScript solid foundation
+- ✅ DOM manipulation & Events mastery
+- ✅ 3 Projects (To-Do, Weather App, Simple API)
+- ✅ Basic Backend knowledge (Node/Express)
+- ✅ **Unbreakable daily coding habit**
 - ✅ University FINISHED
-- ✅ Ready to ACCELERATE
+- ✅ Ready to ACCELERATE in Jan
 
 ---
 
@@ -521,14 +559,31 @@ Learn modern JavaScript stack (React, NestJS, TypeScript) while working, build p
 
 **Project:** Migrate simple routes to NestJS
 
-#### Week 14: NestJS Deep-Dive
+#### Week 14: NestJS Deep-Dive + Docker Basics
 **Topics:**
 - Guards (authentication)
 - Interceptors (logging, transformation)
 - Pipes (validation)
 - DTOs with class-validator
+- **Docker Introduction** (Friday session)
+
+**Docker Resources:**
+- [Docker 101 Tutorial](https://www.docker.com/101-tutorial/)
+- [Docker for Node.js Developers](https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md)
+- Understand: Images vs Containers, Dockerfile, docker-compose.
+
+**Friday Session (2 hours):**
+- Watch Docker crash course (1hr)
+- Create a `Dockerfile` for your NestJS app
+- Run your app in a container
+- Use `docker-compose` to run App + Postgres together
 
 **Project:** Blog API in NestJS (full migration)
+- Same features as Express version
+- NestJS architecture
+- TypeScript throughout
+- Swagger documentation
+- **Dockerized setup**
 
 #### Week 15-16: React Fundamentals (JavaScript first)
 **Topics & Resources:**
@@ -561,14 +616,37 @@ Learn modern JavaScript stack (React, NestJS, TypeScript) while working, build p
 - Event handlers
 - Preventing default
 
+**Styling React Components:**
+- **Tailwind CSS with React** (use this for ALL projects)
+- Component libraries introduction:
+  - shadcn/ui (https://ui.shadcn.com/) - Copy-paste components with Tailwind
+  - Material-UI (https://mui.com/) - Alternative
+  - Chakra UI (https://chakra-ui.com/) - Alternative
+
 **Videos:**
 - Web Dev Simplified: React Hooks (https://www.youtube.com/watch?v=O6P86uwfdR0)
 - Fireship: React in 100 seconds
 
 **Projects:**
-- Weather Dashboard (fetch API data from OpenWeather)
-- Simple todo app
-- Reddit clone UI (no backend yet)
+- Weather Dashboard (fetch API data, **style with Tailwind**)
+- Simple todo app (**use shadcn/ui components**)
+- Reddit clone UI (no backend yet, **Tailwind for layout**)
+
+**CSS Strategy for React:**
+1. Use Tailwind for 90% of styling
+2. Use component libraries (shadcn/ui) for complex UI
+3. Rarely write custom CSS
+
+#### Week 16.5: CI/CD Basics (GitHub Actions)
+**Goal:** Automate your workflow.
+- **Topics:**
+  - What is CI/CD?
+  - GitHub Actions YAML syntax.
+  - Creating a workflow to run tests on push.
+  - Creating a workflow to build Docker image.
+- **Resources:**
+  - [GitHub Actions Quickstart](https://docs.github.com/en/actions/quickstart)
+  - [Fireship: GitHub Actions in 100 Seconds](https://www.youtube.com/watch?v=TLB5MY9BBa4)
 
 ---
 
@@ -890,18 +968,15 @@ export interface Post {
 
 **Adjusted for YOUR reality:**
 
-#### Survival Mode Session (Nov-Dec): 45-90 min
-**Early sessions (Week 1-2): 60-90 min**
-- You're slow at first (learning the system + the content)
-- Session 1 took 1.5hrs - THAT'S NORMAL
-- Session 2 took 50min - ALREADY FASTER
-- By Week 3-4: You'll hit 45-50min consistently
+#### Survival Mode Session (Dec): 60 min
+**Goal:** Consistency over intensity.
+- You have 1 hour per day. Use it wisely.
+- If you finish early, review. If you run out of time, stop and continue tomorrow.
 
 **Session breakdown:**
-- 0-15min: Concept acquisition (read, take notes in YOUR words)
-- 15-50min: Active practice (type examples, break them, rebuild)
-- 50-60min: Consolidation (test code, commit to GitHub)
-- 60-75min: Post-recall questions (from memory)
+- 0-10min: Concept acquisition (read resources)
+- 10-50min: Active practice (coding exercises)
+- 50-60min: Consolidation (commit to GitHub)
 
 **The reality:** 
 - Hard topics (async/await, closures): 90min+ is FINE
@@ -1428,29 +1503,38 @@ Come back in 3 days and answer the questions again (spaced repetition).
 
 ## Weekly Schedules by Phase
 
-### Survival Mode (Nov-Dec): 6-10 hours/week
+### Survival Mode (Dec 1 - Dec 15)
 
 **Weekday (Mon-Fri):**
 ```
 8:00am - 5:00pm: Work (HCL Domino)
 5:00pm - 6:00pm: Commute/Dinner
 6:00pm - 10:00pm: University
-10:00pm - 10:45pm: Coding session (30-45min)
-10:45pm - 11:00pm: Commit, update progress
+10:00pm - 11:00pm: Coding session (1 hour)
 11:00pm+: Wind down, sleep
 ```
 
 **Weekend (Sat-Sun):**
 ```
-9:00am - 10:30am: Session 1 (1.5hr)
-10:30am - 11:00am: Break
-11:00am - 12:00pm: Session 2 (1hr)
-12:00pm - 2:00pm: Lunch, rest
-2:00pm - 4:00pm: Session 3 (2hr project work, optional)
-Evening: Free time
+9:00am - 1:00pm: Coding Session (4 hours)
+Afternoon/Evening: Rest & University work
 ```
 
-**Weekly Total:** 2.5hrs (weekdays) + 5hrs (weekend) = 7.5hrs
+### Survival Mode (Dec 16 - Dec 31)
+
+**Weekday (Mon-Fri):**
+```
+8:00am - 5:00pm: Work (HCL Domino)
+5:00pm - 6:00pm: Commute/Dinner
+6:00pm - 8:00pm: Coding session (2 hours)
+8:00pm+: Free time / Rest
+```
+
+**Weekend (Sat-Sun):**
+```
+9:00am - 1:00pm: Coding Session (4 hours)
+Afternoon/Evening: Free time
+```
 
 ---
 
@@ -1516,6 +1600,24 @@ Weekly Weekend Total: 12 hours
 - **"Eloquent JavaScript"** - https://eloquentjavascript.net/ (Free)
 - **"You Don't Know JS"** - https://github.com/getify/You-Dont-Know-JS (Free)
 - **"Effective TypeScript"** by Dan Vanderkam (Advanced TS, read after Week 16)
+
+### CSS & Styling (For People Who Hate CSS)
+- **Flexbox Froggy** - https://flexboxfroggy.com/ (PLAY THIS - 30min, you'll learn Flexbox)
+- **Grid Garden** - https://cssgridgarden.com/ (PLAY THIS - 30min, you'll learn Grid)
+- **CSS-Tricks Flexbox Guide** - https://css-tricks.com/snippets/css/a-guide-to-flexbox/ (Reference)
+- **CSS-Tricks Grid Guide** - https://css-tricks.com/snippets/css/complete-guide-grid/ (Reference)
+- **Tailwind CSS** - https://tailwindcss.com/ (Use this for EVERYTHING)
+- **shadcn/ui** - https://ui.shadcn.com/ (Copy-paste beautiful components)
+- **Kevin Powell YouTube** - https://www.youtube.com/@KevinPowell (If you need deep CSS knowledge)
+
+**The CSS Strategy for Backend Developers:**
+1. Learn Flexbox (play Flexbox Froggy)
+2. Learn Grid basics (play Grid Garden)  
+3. Use Tailwind for ALL styling (utility classes)
+4. Use component libraries (shadcn/ui, Material-UI) for complex UI
+5. Never write custom CSS again
+
+**You DON'T need to be a CSS expert. You need to know enough to make things look decent.**
 
 ---
 
@@ -1627,13 +1729,10 @@ Weekly Weekend Total: 12 hours
 
 ### Monthly Milestones
 
-**November 2025:**
-- ✅ Modern JS variables, arrows, async
-- ✅ Habit established (30-day streak)
-
 **December 2025:**
-- ✅ Express basics
-- ✅ First API project
+- ✅ Modern JS Foundations
+- ✅ DOM & Events
+- ✅ First Project (To-Do List)
 - ✅ University FINISHED
 
 **January 2026:**
@@ -1692,9 +1791,60 @@ Weekly Weekend Total: 12 hours
 - Never giving up
 
 **The math:**
-- Nov-Dec: 70 hours (survival)
-- Jan-Jul: 590 hours (attack)
-- **Total: 660 hours = ESCAPE VELOCITY**
+- Dec: ~25 hours (survival)
+- Jan-Jul: ~600 hours (attack)
+- **Total: ~625 hours = ESCAPE VELOCITY**
+
+---
+
+## Complete Weekday Exercise Schedule (Quick Reference)
+
+### Week 1: Modern JavaScript Practice
+- **Day 4 (Mon):** Ternary & short-circuit
+- **Day 5 (Tue):** Loop variations  
+- **Day 6 (Wed):** Default & rest parameters
+- **Day 7 (Thu):** Optional chaining & nullish coalescing
+- **Day 8 (Fri):** Array methods (some, every, find)
+
+### Week 2: Deep-Dive Practice
+- **Day 9 (Mon):** Object methods (keys, values, entries)
+- **Day 10 (Tue):** Advanced destructuring
+- **Day 11 (Wed):** Spread operator tricks
+- **Day 12 (Thu):** Template literals advanced
+- **Day 13 (Fri):** ES6 modules
+
+### Week 3: CSS Practice
+- **Day 16 (Mon):** Flexbox centering
+- **Day 17 (Tue):** Flexbox direction & wrapping
+- **Day 18 (Wed):** Grid basics
+- **Day 19 (Thu):** Responsive design
+- **Day 20 (Fri):** CSS polish & effects
+
+### Week 4: LeetCode Introduction
+- **Day 21-27:** Daily LeetCode Easy (Arrays & Hashing category)
+- Specific problems provided in Week 4 section
+
+### Week 5: Express Basics
+- **Day 23 (Mon):** HTTP methods practice
+- **Day 24 (Tue):** Route parameters & query strings
+- **Day 25 (Wed):** HTTP status codes
+- **Day 26 (Thu):** Body parsing & validation
+- **Day 27 (Fri):** RESTful API design
+
+### Week 6: Express Middleware
+- **Day 30 (Mon):** Middleware basics
+- **Day 31 (Tue):** Built-in middleware
+- **Day 32 (Wed):** Custom middleware
+- **Day 33 (Thu):** Error handling middleware
+- **Day 34 (Fri):** Router-level middleware
+
+### General Pattern (All Weeks)
+**45 minutes per weekday:**
+- 10 min: Learn mini-topic (read/watch)
+- 30 min: Code exercises (4-5 problems)
+- 5 min: Commit to GitHub
+
+**Goal:** Active practice > passive review. Build muscle memory daily.
 
 ---
 
@@ -1736,7 +1886,7 @@ Weekly Weekend Total: 12 hours
 
 ---
 
-**Start: November 1, 2025**  
+**Start: December 1, 2025**  
 **End: July 26, 2026**  
 **Mission: Escape Legacy Tech Hell**
 
@@ -1744,4 +1894,4 @@ Weekly Weekend Total: 12 hours
 
 ---
 
-*Last updated: November 1, 2025 - Day 1 Complete*
+*Last updated: December 1, 2025 - Restart*
