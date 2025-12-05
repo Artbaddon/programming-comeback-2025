@@ -27,3 +27,16 @@
 
 **Commits:**
 - Pending
+
+### Wednesday, Dec 3 - Day 3
+**Goal:** Destructuring & Spread
+**Status:** [~] Partially Completed (20 mins)
+
+**Notes:**
+- Kept the streak alive despite being tired.
+- Learned Destructuring (Arrays & Objects).
+- Completed Exercises 1 & 2.
+- To-Do: Finish Exercise 3 (Spread Operator) tomorrow.
+
+**Commits:**
+- Pending
