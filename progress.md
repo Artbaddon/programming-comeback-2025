@@ -40,3 +40,15 @@
 
 **Commits:**
 - Pending
+
+### Thursday, Dec 4 - Day 4
+**Goal:** Destructuring Practice (Catch Up)
+**Status:** [~] 10 mins (Streak Kept)
+
+**Notes:**
+- Very tough day, but showed up for 10 mins.
+- Practiced Object Destructuring.
+- "No Rest Days" mentality won today.
+
+**Commits:**
+- Pending
